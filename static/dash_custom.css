@@ -1,0 +1,32 @@
+.dash-spreadsheet .row {
+    flex-wrap: nowrap;
+}
+.dash-spreadsheet .row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.dash-spreadsheet.dash-freeze-left {
+    max-width: 100% !important;
+}
+a.anchor {
+    display: block;
+    position: relative;
+    top: -200px;
+}
+.disabled{
+    color: #7b8a8b !important;
+    background-color: #ecf0f1 !important;
+    border: 1px solid #ced4da !important;
+    opacity: 1 !important;
+
+}
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #000000;
+    border: 1px solid #000;
+    text-align: center;
+    background-color: #d4d4d4;
+    border-radius: .25rem;
+}
