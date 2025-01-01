@@ -29,7 +29,7 @@ required packaged and run the dash app.
 
 We also have the app running on a live web server which can be found here.
 
-[(https://cost-of-living-project.onrender.com/)]()
+[https://cost-of-living-project.onrender.com/]()
 
 ## EXECUTION
 
